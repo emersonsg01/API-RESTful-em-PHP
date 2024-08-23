@@ -1,0 +1,19 @@
+{
+    
+        "valor_total": 100.00,
+        "qtd_parcelas": 12,
+        "data_primeiro_vencimento": "2024-08-01",
+        "periodicidade": "mensal"
+      
+
+}
+
+{
+
+        "valor_total": 0.30,
+  "qtd_parcelas": 2,
+  "data_primeiro_vencimento": "2024-08-01",
+  "periodicidade": "semanal",
+  "valor_entrada": 0.10
+
+}
